@@ -15,9 +15,7 @@ In my previous years of experience in tech, I've developed extensive knowledge i
 Open for exploring exciting full-stack development opportunities in startups as well as companies with scale. Remote work, Part-time jobs, and Internships
 </h4>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rebaz36&label=Profile%20views&color=0e75b6&style=flat" alt="rebaz36" /> 
-</p>
+[![](https://visitcount.itsvg.in/api?id=rebaz36&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in) 
 
 - 📫 How to reach me 
 **rebaz415@gmail.com**
