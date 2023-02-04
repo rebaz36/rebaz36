@@ -1,23 +1,26 @@
-<h1 align="center">Hi 👋, I'm Rebaz</h1>
-<h3 align="center">Computer Science Graduate, Sharpening My Full Stack Web Development @Microverse</h3>
+<h1 align="left">Hi 👋, I'm Rebaz</h1>
+<h4 align="left">
+
+Software Engineer | Full Stack Javascript Developer | Computer Science Graduate - UTM
+
+A passion for technology and bringing visions of technological solutions to life. My years of studies taught me discipline, hard work, and consistency. I love learning new technology and I adapt quickly, currently learning more about MERN Stack Development.
+
+In my previous years of experience in tech, I've developed extensive knowledge in 
+- Front-end development: ReactJS | NextJS
+- Data Management: Redux | ContextAPI | DSA
+- Styling: Styled-components | SASS | CSS-in-JS | MaterialUI | Bootstrap | TailwindCSS
+- Product management: UI design | UX Design | Prototyping | Wireframing
+- Infra: Heroku | Netlify 
+
+Open for exploring exciting full-stack development opportunities in startups as well as companies with scale. Remote work, Part-time jobs, and Internships
+</h4>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rebaz36&label=Profile%20views&color=0e75b6&style=flat" alt="rebaz36" /> 
 </p>
 
-- 🌱 I’m currently learning Full Stack Development with Microverse and Online Resources **HTML, CSS, Javascript, React, Bootstrap, Node.js**
-
-- 📫 How to reach me **rebaz415@gmail.com**
-
-<h3 align="left">
-  Connect with me: 
-  <a href="https://linkedin.com/in/rebazf" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rebazf" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/rebaz415" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rebaz415" height="30" width="40" />
-  </a>
-</h3>
+- 📫 How to reach me 
+**rebaz415@gmail.com**
 
 <h3 align="left">Languages and Tools:
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
