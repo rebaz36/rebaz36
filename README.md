@@ -5,7 +5,7 @@ Software Engineer | Full Stack Javascript Developer | Computer Science Graduate 
 
 A passion for technology and bringing visions of technological solutions to life. My years of studies taught me discipline, hard work, and consistency. I love learning new technology and I adapt quickly, currently learning more about MERN Stack Development.
 
-In my previous years of experience in tech, I've developed extensive knowledge in 
+In my previous years of experience in tech, I've developed knowledge in 
 - Front-end development: ReactJS | NextJS
 - Data Management: Redux | ContextAPI | DSA
 - Styling: Styled-components | SASS | CSS-in-JS | MaterialUI | Bootstrap | TailwindCSS
@@ -20,7 +20,7 @@ Open for exploring exciting full-stack development opportunities in startups as 
 - 📫 How to reach me 
 **rebaz415@gmail.com**
 
-<h3 align="left">Languages and Tools:
+<h3 align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
