@@ -15,7 +15,5 @@ In my previous years of experience in tech, I've developed knowledge in
 Open for exploring exciting full-stack development opportunities in startups as well as companies with scale. Remote work, Part-time jobs, and Internships
 </h4>
 
-[![](https://visitcount.itsvg.in/api?id=rebaz36&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in) 
-
 - 📫 How to reach me 
 **rebaz415@gmail.com**
